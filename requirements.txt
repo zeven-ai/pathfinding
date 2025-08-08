@@ -2,5 +2,11 @@ networkx==2.8.3
 numpy==1.20.3
 scipy==1.8.1
 matplotlib==3.5.2
-torch==1.11.0 --extra-index-url https://download.pytorch.org/whl/cu113
+torch==1.11.0 
 tqdm==4.63.2
+modal>=1.0.2
+torch-scatter==2.0.9
+torch-sparse==0.6.13 
+torch-cluster==1.6.0
+torch-spline-conv==1.2.1
+torch-geometric==2.0.4
